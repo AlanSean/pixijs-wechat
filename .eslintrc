@@ -1,0 +1,19 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "wx": false,
+    "ArrayBuffer": false,
+    "window": true,
+    "WeakMap": false,
+    "setTimeout": false,
+    "setInterval": false,
+    "Uint8Array": false,
+    "GameGlobal": false
+},
+  "rules": {
+    "space-before-function-paren":0
+  }
+}

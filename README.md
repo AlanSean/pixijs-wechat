@@ -1,2 +1,9 @@
-# pixijs-wechat
-Support wechat devtools environment
+# weapp-adapter
+微信开发工具版本1.05
+经过测试支持基础库2.21.3
+pixi.js@6
+
+
+注意事项
+
+1. 视频使用微信原生的
